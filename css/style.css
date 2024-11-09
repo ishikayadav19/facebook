@@ -1,0 +1,110 @@
+
+#outer
+{
+height:700px;
+width:1500px;
+//border:1px solid;
+}
+
+#left
+{
+height:700px;
+width:745px;
+//border:1px solid;
+float:left;
+
+}
+#left1
+{
+height:350px;
+width:745px;
+//border:1px solid;
+}
+#left11
+{
+height:250px;
+width:745px;
+//border:1px solid;
+}
+#left12
+{
+height:100px;
+//border:1px solid;
+width:550px;
+background-image:url('../images/facebook.png');
+background-image-size:auto;
+background-repeat:no-repeat;
+margin-left:120px;
+}
+#left2
+{
+height:350px;
+width:650px;
+//border:1px solid;
+margin-left:120px;
+}
+#right
+{
+height:700px;
+width:745px;
+//border:1px solid;
+float:left;
+}
+
+
+#box
+{
+height:350px;
+width:400px;
+background-color: white;
+//border: 1px solid black;
+box-shadow:0px 0px 5px black ;
+border-radius:5px;
+margin: 200px auto;
+}
+#user 
+{
+//margin-top:10px;
+//margin-left:8px;
+width:370px;
+height:50px;
+border:1px solid white;
+box-shadow:0px 0px 2px lightgrey ;
+margin:10px auto;
+border-radius:5px;
+}
+#password
+{
+//margin-top:10px;
+height:50px;
+margin:2px auto;
+border-radius:5px;
+border:1px solid white;
+box-shadow:0px 0px 2px lightgrey;
+width:370px;
+//margin-left:8px;
+}
+#bt
+{
+//margin-left:65px;
+margin-top:10px;
+border:1px solid blue;
+//box-shadow:0px 0px 2px black ;
+width:370px;
+border-radius:5px;
+height:50px;
+}
+#bt2
+{
+//margin-left:65px;
+margin-top:10px;
+border:1px solid white;
+box-shadow:0px 0px 2px lightgreen ;
+
+border-radius:5px;
+width:200px;
+font-size:16px;
+height:50px;
+
+}
+
